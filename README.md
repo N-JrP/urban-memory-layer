@@ -2,7 +2,7 @@
 
 **A prototype spatial narrative engine for adaptive, multi-layered urban storytelling.**
 
-This project explores how cities can function as structured, walkable memory systems — where the same place can be interpreted through multiple narrative layers and visitor depths, without rewriting content.
+This project explores how cities can function as structured, walkable memory systems where the same place can be interpreted through multiple narrative layers and visitor depths, without rewriting content.
 
 🔗 **Live Demo:** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://urban-memory-layer-bo5tmkpdridp645s9d8inz.streamlit.app/)
 
@@ -57,7 +57,7 @@ This prototype establishes narrative infrastructure.
 Possible evolutions include:
 
 ### Historical Persona Mode
-Visitors encounter first-person narratives from historical figures connected to each location — shifting interpretation from *about history* to *inside history*.
+Visitors encounter first-person narratives from historical figures connected to each location shifting interpretation from *about history* to *inside history*.
 
 ### Dynamic Route Recomposition
 Auto-generated routes based on:
