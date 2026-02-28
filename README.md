@@ -4,7 +4,7 @@
 
 This project explores how cities can function as structured, walkable memory systems — where the same place can be interpreted through multiple narrative layers and visitor depths, without rewriting content.
 
-🔗 **Live Demo:** [Add your Streamlit URL here] 
+🔗 **Live Demo:** [(https://urban-memory-layer-bo5tmkpdridp645s9d8inz.streamlit.app/)]
 
 ---
 
