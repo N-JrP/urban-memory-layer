@@ -37,7 +37,7 @@ Depth adapts to visitor preference without duplicating data.
 - Map visualization with density layer (memory concentration within ~250m)
 - Optional audio moments (multi-modal storytelling)
 
-The system models cultural memory as a structured, queryable layer — not just a static guided tour.
+The system models cultural memory as a structured, queryable layer not just a static guided tour.
 
 ---
 
